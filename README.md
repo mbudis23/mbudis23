@@ -16,4 +16,4 @@ I am an Information Technology student at Gadjah Mada University with a strong p
 🚀 I strive to deliver clean, efficient, and scalable solutions, continuously learning to keep up with emerging technologies. Let’s build something amazing together!
 
 💼 **Let's Connect:**  
-[LinkedIn](#) | [Email](mailto:rizqi@example.com) | [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/mbudis/) | [Email](mailto:muhammadbudisetiawan@mail.ugm.ac.id)
