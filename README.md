@@ -1,16 +1,19 @@
-## Hi there 👋
+# Muhammad Budi Setiawan | Information Technology Student
 
-<!--
-**mbudis23/mbudis23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Universitas Gadjah Mada**  
 
-Here are some ideas to get you started:
+I am an Information Technology student at Gadjah Mada University with a strong passion for **software development** and **data analyst**. My goal is to leverage technology to create innovative solutions that drive impact and enhance user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **Areas of Interest:**  
+- Web Application Development  
+- Data Analysis and Visualization
+
+📚 **Skills:**  
+- Programming: C++, JavaScript, Python  
+- Tools: Firebase, MongoDB, PostgreSQL  
+- Frameworks: Node.js, Next.js, React.JS, Express.JS
+
+🚀 I strive to deliver clean, efficient, and scalable solutions, continuously learning to keep up with emerging technologies. Let’s build something amazing together!
+
+💼 **Let's Connect:**  
+[LinkedIn](#) | [Email](mailto:rizqi@example.com) | [Portfolio](#)
